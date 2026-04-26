@@ -15,3 +15,4 @@ Menganalisis kasus kebocoran data pada Komisi Pemilihan Umum (KPU) terkait Pemil
 | 4 | 4524210070 | Muhammad Tegar Arianto |
 | 5 | 4524210083 | Reevan Azepha Islamy Iskandar |
  
+**BAB II LANDASAN TEORI**
