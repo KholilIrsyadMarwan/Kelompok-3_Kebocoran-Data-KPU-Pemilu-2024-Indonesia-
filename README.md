@@ -60,14 +60,45 @@ Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharet
 </div>
 
 ### 2.1 Kronologi Kasus
+<p>
+ 
+</p>
+
 ### 2.2 Analisis Berdasarkan Etika
+<p>
+ 
+</p>
+
 ### 2.3 Analisis Berdasarkan Moral
+<p>
+ 
+</p>
+
 ### 2.4 Analisis Berdasarkan Etika Profesi
+<p>
+ 
+</p>
+
 ### 2.5 Tinjauan Hukum
-2.5.1 UU ITE
-2.5.2 UU PDP
+#### 2.5.1 UU ITE
+<p>
+ 
+</p>
+
+#### 2.5.2 UU PDP
+<p>
+ 
+</p>
+
 ### 2.6 Dampak Kasus
+<p>
+ 
+</p>
+
 ### 2.7 Solusi dan Pencegahan
+<p>
+ 
+</p>
 
 <hr>
 
@@ -76,8 +107,15 @@ Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharet
 <h3>PENUTUP</h3>
 </div>
 
-### 3.1 Kesimpulan  
+### 3.1 Kesimpulan 
+<p>
+ 
+</p>
+
 ### 3.2 Saran  
+<p>
+ 
+</p>
 
 <hr>
 
