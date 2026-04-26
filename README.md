@@ -6,8 +6,7 @@
 Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
- <br>
- sedsadas</br
+ 
   <img width="280" height="270" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />
  <br><br>
   ## Disusun Oleh Kelompok 3:
@@ -25,6 +24,9 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
   <br><br>
   
  ## PROGRAM STUDI TEKNIK INFORMATIKA  
+ 
  ## FAKULTAS TEKNIK UNIVERSITAS PANCASILA
+ 
  ## 2025/2026
+ 
 </div>
