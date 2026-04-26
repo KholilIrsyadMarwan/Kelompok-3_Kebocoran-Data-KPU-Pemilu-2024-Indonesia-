@@ -32,3 +32,31 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
  ## 2025/2026
  
 </div>
+
+## BAB I
+## PENDAHULUAN
+
+<div align="center">
+
+ </div>
+
+ <div align="center">
+
+## BAB II 
+## PEMBAHASAN
+
+ </div>
+
+ <div align="center">
+
+## BAB III 
+## PENUTUP
+
+ </div>
+
+<div align="center">
+ 
+## DAFTAR PUSTAKA
+</div>
+
+## Link Canva: https:wwwwwwww
