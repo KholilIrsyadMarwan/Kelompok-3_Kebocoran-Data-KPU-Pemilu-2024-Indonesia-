@@ -5,8 +5,10 @@
 
 Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)
 
-
+ <!-- Logo KPU -->
+  ![Logo KPU](<img width="390" height="378" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />)
  
+    **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
   
 
   ## Disusun Oleh Kelompok 3:
@@ -19,13 +21,11 @@ Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)
   | Rizwan Fauziani Ilham     | 4524210094  |
   | Muhammad Tegar Arianto    | 4524210070  |
   
-  **Dosen Pengampu:**  
-  Adi Wahyu Pribadi, S.Si., M.Kom
-  
+
   
   <br><br>
   
-  ## PROGRAM STUDI TEKNIK INFORMATIKA  
+  # PROGRAM STUDI TEKNIK INFORMATIKA  
   **FAKULTAS TEKNIK UNIVERSITAS PANCASILA**  
   **2025/2026**
 </div>
