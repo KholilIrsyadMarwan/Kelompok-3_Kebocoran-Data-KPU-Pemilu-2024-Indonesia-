@@ -1,27 +1,28 @@
 # LAPORAN ETIKA PROFESI  
 ## KEBOCORAN DATA KPU/PEMILU 2024 INDONESIA
 
+"Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)"
+
 <div align="center">
-  <p>disusun untuk memenuhi Tugas Etika Profesi - B</p>
+  <!-- Logo KPU -->
+  ![Logo KPU](https://link_to_logo_image)
 
-  <p><b>Dosen Pengampu:</b> Adi Wahyu Pribadi, S.Si., M.Kom</p>
-
-  <img src="https://link_to_logo_image" alt="Logo KPU" width="200">
-
-
-  <h3>Disusun oleh:</h3>
-
-  <ul>
-    <li>Kholil Irsyad Marwan - 4524210110</li>
-    <li>Reza Putra Arialesta - 4524210086</li>
-    <li>Reevan Azepha Islamy Iskandar - 4524210083</li>
-    <li>Rizwan Fauziani Ilham - 4524210094</li>
-    <li>Muhammad Tegar Arianto - 4524210070</li>
-  </ul>
-
-  <br>
-  <p><b>PROGRAM STUDI TEKNIK INFORMATIKA</b></p>
-  <p><b>FAKULTAS TEKNIK</b></p>
-  <p><b>UNIVERSITAS PANCASILA</b></p>
-  <p><b>2025/2026</b></p>
+  ## Disusun Oleh Kelompok 3:
+  
+  | Nama Anggota             | NIM         |
+  |--------------------------|-------------|
+  | Kholil Irsyad Marwan      | 4524210110  |
+  | Reza Putra Arialesta      | 4524210086  |
+  | Reevan Azepha Islamy Iskandar | 4524210083 |
+  | Rizwan Fauziani Ilham     | 4524210094  |
+  | Muhammad Tegar Arianto    | 4524210070  |
+  
+  **Dosen Pengampu:**  
+  Adi Wahyu Pribadi, S.Si., M.Kom
+  
+  <br><br>
+  
+  ## PROGRAM STUDI TEKNIK INFORMATIKA  
+  **FAKULTAS TEKNIK UNIVERSITAS PANCASILA**  
+  **2025/2026**
 </div>
