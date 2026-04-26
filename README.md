@@ -40,6 +40,10 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 ## PENDAHULUAN
  </div>
 
+## 1.1 Latar Belakang
+## 1.2 Rumusan Masalah
+## 1.3 Tujuan
+
  <div align="center">
 
 ## BAB II 
@@ -47,12 +51,19 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
  </div>
 
+## 2.1 
+## 2.2
+## 2.3
+
  <div align="center">
 
 ## BAB III 
 ## PENUTUP
 
  </div>
+
+## 3.1 Kesimpulan
+## 3.2 Saran
 
 <div align="center">
  
