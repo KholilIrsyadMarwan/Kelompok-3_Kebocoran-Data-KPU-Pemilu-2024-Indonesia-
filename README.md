@@ -55,11 +55,9 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 2.1 Kronologi Kasus
 <p>
- Informasi peretasan situs KPU ini diketahui setelah Jimbo mengunggah sebuah postingan di situs BreachForums, tempat yang biasa digunakan untuk menjual hasil peretasan. Dia membagikan 500 ribu data sampel yang berhasil didapatkannya dari situs KPU. 
-
-Dari data yang diretas Jimbo, ada beberapa data pribadi yang cukup penting. Mulai dari Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga (KK), dan Nomor KTP—berisi nomor paspor untuk pemilih yang berada di luar negeri.
-
-Selain itu, ada juga data pribadi lainnya, berupa nama lengkap, jenis kelamin, tanggal lahir, tempat lahir, status pernikahan, alamat lengkap, RT, RW, kodefikasi kelurahan, kecamatan, dan kabupaten serta kodefikasi TPS.
+ Informasi peretasan situs KPU ini diketahui setelah Jimbo mengunggah sebuah postingan di situs BreachForums, tempat yang biasa digunakan untuk menjual hasil peretasan. Dia membagikan 500 ribu data sampel yang berhasil didapatkannya dari situs KPU. Dari data yang diretas Jimbo, ada beberapa data pribadi yang cukup penting. Mulai dari Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga (KK), dan Nomor KTP—berisi nomor paspor untuk pemilih yang berada di luar negeri.
+ 
+Selain itu, ada juga data pribadi lainnya, berupa nama lengkap, jenis kelamin, tanggal lahir, tempat lahir, status pernikahan, alamat lengkap, RT, RW, kodefikasi kelurahan, kecamatan, dan kabupaten serta kodefikasi TPS.Usai mengklaim berhasil mendapatkan sekitar 204 juta data DPT Pemilu 2024, peretas dengan anonim Jimbo itu pun membagikan sekitar 500 ribu data contoh yang berhasil didapatkannya dari website KPU pada situs Breach Forum.
 </p>
 
 ### 2.2 Analisis Berdasarkan Etika
