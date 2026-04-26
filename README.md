@@ -46,7 +46,7 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharetra condimentum. Mauris turpis nunc, blandit et volutpat molestie, porta ut ligula. Nulla facilisi. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
 ### 1.2 Rumusan Masalah  
 
- 1. bagaimana
+ 1. bagaimana jika masalah tersebut ada 2
  2. jika
  3. walau
 
