@@ -124,10 +124,20 @@ NIK, KK, dan informasi pribadi lainnya yang bocor rentan disalahgunakan untuk pe
 Insiden ini meningkatkan ketidakpercayaan masyarakat terhadap KPU sebagai penyelenggara, terutama karena terjadi berulang kali.
 
 
-### 2.7 Solusi dan Pencegahan
-<p>
- 
-</p>
+### 2.7.1 Solusi Teknis (Cybersecurity)
+*  Mengadopsi prinsip "jangan pernah percaya, selalu verifikasi" pada setiap akses ke database KPU, sehingga tidak ada pengguna yang memiliki akses otomatis tanpa otentikasi ketat.
+*  Melakukan pengetesan celah keamanan secara rutin oleh pihak ketiga yang independen untuk menemukan kerentanan sebelum dieksploitasi pihak luar.
+*  Memastikan seluruh data pemilih yang tersimpan dalam database (Data at Rest) maupun yang sedang dikirim (Data in Transit) menggunakan algoritma enkripsi yang kuat.
+*  Mewajibkan Multi-Factor Authentication(MFA) bagi seluruh admin atau staf yang memiliki akses ke dasbor atau server backend sistem informasi pemilu.
+
+### 2.7.2 Solusi Manajerial dan Etika
+*  Memberikan sertifikasi dan pelatihan berkelanjutan bagi staf IT mengenai standar keamanan data terbaru dan etika profesi TI.
+* Penyusunan Data Governance yang Jelas agar mempertegas SOP (Standard Operating Procedure) mengenai siapa yang bertanggung jawab atas pengelolaan data dan bagaimana prosedur penanganan insiden jika terjadi kebocoran.
+* Pembentukan Cyber Security Incident Response Team (CSIRT) yaitu sebuah tim khusus yang siap siaga 24/7 untuk merespons serangan siber secara cepat dan melakukan pemulihan (recovery) secara sistematis.
+
+### 2.7.3 Penegakan Regulasi
+* Mendorong KPU untuk sepenuhnya patuh pada UU Perlindungan Data Pribadi, termasuk penunjukan Petugas Pelindungan Data (Data Protection Officer) yang independen.
+* Mewajibkan laporan terbuka kepada publik setiap kali terjadi percobaan serangan atau kerentanan sistem sebagai bentuk tanggung jawab moral dan profesionalitas.
 
 <hr>
 
