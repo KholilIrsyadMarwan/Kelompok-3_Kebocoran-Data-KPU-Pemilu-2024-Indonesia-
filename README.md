@@ -33,11 +33,11 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
  
 </div>
 
-## BAB I
-## PENDAHULUAN
 
 <div align="center">
 
+## BAB I
+## PENDAHULUAN
  </div>
 
  <div align="center">
