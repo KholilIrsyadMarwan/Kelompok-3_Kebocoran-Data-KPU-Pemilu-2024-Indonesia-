@@ -33,7 +33,7 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
  
 </div>
 
----
+
 
 <hr>
 
@@ -63,10 +63,15 @@ Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharet
 <h3>PEMBAHASAN</h3>
 </div>
 
-### 2.1  
-### 2.2  
-### 2.3  
-
+### 2.1 Kronologi Kasus
+### 2.2 Analisis Berdasarkan Etika
+### 2.3 Analisis Berdasarkan Moral
+### 2.4 Analisis Berdasarkan Etika Profesi
+### 2.5 Tinjauan Hukum
+2.5.1 UU ITE
+2.5.2 UU PDP
+### 2.6 Dampak Kasus
+### 2.7 Solusi dan Pencegahan
 ---
 
 <hr>
