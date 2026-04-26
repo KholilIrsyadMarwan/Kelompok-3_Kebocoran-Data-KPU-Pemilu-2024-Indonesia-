@@ -7,7 +7,7 @@
   <p><b>Dosen Pengampu:</b> Adi Wahyu Pribadi, S.Si., M.Kom</p>
 
   <img src="https://link_to_logo_image" alt="Logo KPU" width="200">
-<img width="1161" height="828" alt="image" src="https://github.com/user-attachments/assets/e5cc317d-1f78-44f9-be68-5c2ed16922f5" />
+
 
   <h3>Disusun oleh:</h3>
 
