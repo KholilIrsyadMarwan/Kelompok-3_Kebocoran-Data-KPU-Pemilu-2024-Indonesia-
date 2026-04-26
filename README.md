@@ -1,13 +1,17 @@
 <div align="center">
  
-# LAPORAN ETIKA PROFESI  
-# KEBOCORAN DATA KPU/PEMILU 2024 INDONESIA
+## LAPORAN ETIKA PROFESI  
+## KEBOCORAN DATA KPU/PEMILU 2024 INDONESIA
 
 Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
 
+ 
+
   <img width="280" height="270" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />
+
+
 
   ## Disusun Oleh Kelompok 3:
   
@@ -23,7 +27,7 @@ Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)
   
   <br><br>
   
-  # PROGRAM STUDI TEKNIK INFORMATIKA  
-  **FAKULTAS TEKNIK UNIVERSITAS PANCASILA**  
-  **2025/2026**
+ ## PROGRAM STUDI TEKNIK INFORMATIKA  
+ ## FAKULTAS TEKNIK UNIVERSITAS PANCASILA
+ ## 2025/2026
 </div>
