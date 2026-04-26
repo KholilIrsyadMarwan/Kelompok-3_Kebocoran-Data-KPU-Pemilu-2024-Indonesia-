@@ -7,7 +7,7 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
  
-  <img width="280" height="270" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />
   
  <br><br>
  
@@ -35,42 +35,48 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ---
 
-<div align="center">
+<hr>
 
-## BAB I
-## PENDAHULUAN
- </div>
+<div align="center">
+<h2>BAB I</h2>
+<h3>PENDAHULUAN</h3>
+</div>
+
+### 1.1 Latar Belakang  
+### 1.2 Rumusan Masalah  
+### 1.3 Tujuan  
 
 ---
 
-## 1.1 Latar Belakang
-## 1.2 Rumusan Masalah
-## 1.3 Tujuan
-
- <div align="center">
-
-## BAB II 
-## PEMBAHASAN
-
- </div>
-
-## 2.1 
-## 2.2
-## 2.3
-
- <div align="center">
-
-## BAB III 
-## PENUTUP
-
- </div>
-
-## 3.1 Kesimpulan
-## 3.2 Saran
+<hr>
 
 <div align="center">
- 
-## DAFTAR PUSTAKA
+<h2>BAB II</h2>
+<h3>PEMBAHASAN</h3>
 </div>
 
-## Link Canva: https:wwwwwwww
+### 2.1  
+### 2.2  
+### 2.3  
+
+---
+
+<hr>
+
+<div align="center">
+<h2>BAB III</h2>
+<h3>PENUTUP</h3>
+</div>
+
+### 3.1 Kesimpulan  
+### 3.2 Saran  
+
+---
+
+<hr>
+
+<div align="center">
+<h2>DAFTAR PUSTAKA</h2>
+</div>
+
+Link Canva: https://www.com
