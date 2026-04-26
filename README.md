@@ -77,9 +77,26 @@ Selain itu, ada juga data pribadi lainnya, berupa nama lengkap, jenis kelamin, t
 </p>
 
 ### 2.4 Analisis Berdasarkan Etika Profesi
-<p>
- 
-</p>
+
+Analisis ini meninjau kasus kebocoran data dari sudut pandang standar perilaku dan kewajiban moral yang melekat pada profesi pengelola teknologi informasi serta penyelenggara negara.
+
+#### A. Kode Etik Profesional Teknologi Informasi
+Merujuk pada standar global seperti *ACM Code of Ethics* dan prinsip umum profesional TI, terdapat beberapa poin kritis:
+
+* **Kegagalan *Due Care* & Due Diligence**<br>
+Profesional TI bertanggung jawab untuk memberikan upaya terbaik dalam mengamankan sistem. Kebocoran 204 juta data menunjukkan adanya pengabaian dalam prosedur audit keamanan dan pengujian penetrasi (*pentesting*) yang seharusnya dilakukan secara rutin.<br>
+* **Prinsip Kerahasiaan**<br>
+Secara etis, seorang praktisi TI wajib melindungi data sensitif. Kegagalan mencegah akses tidak sah oleh peretas "Jimbo" merupakan pelanggaran terhadap tanggung jawab menjaga privasi pengguna (rakyat Indonesia).<br>
+* **Security by Design**<br>
+Profesional TI seharusnya tidak hanya membangun sistem yang fungsional, tetapi juga aman sejak awal. Kasus ini menunjukkan bahwa aspek keamanan belum menjadi prioritas utama dibandingkan aspek fungsionalitas sistem.
+
+#### B. Etika Penyelenggara Pemilu (KPU)
+Sebagai pejabat publik yang menjalankan profesi penyelenggara pemilu, KPU terikat pada Kode Etik Penyelenggara Pemilu:
+
+* **Asas Profesionalitas**<br> KPU berkewajiban menjamin seluruh tahapan pemilu, termasuk pengelolaan data DPT, berjalan dengan aman. Kelalaian dalam menjaga data pemilih mencederai citra profesionalisme institusi di mata internasional.
+* **Tanggung Jawab Publik**<br> Data pemilih adalah aset kedaulatan negara. Secara etis, ketidakmampuan melindungi data tersebut adalah bentuk pengabaian terhadap amanah rakyat yang telah memberikan data pribadinya untuk kepentingan demokrasi.
+* **Kejujuran dan Transparansi**<br> Etika profesi menuntut keberanian untuk mengakui kelemahan sistem dan memberikan informasi yang akurat kepada publik segera setelah insiden terjadi, bukan sekadar bersikap defensif.
+
 
 ### 2.5 Tinjauan Hukum
 <p>Tinjauan hukum terhadap dugaan kebocoran data pemilih pada Pemilu 2024 menunjukkan adanya krisis perlindungan data pribadi dan tanggung jawab hukum yang serius dari Komisi Pemilihan Umum (KPU) selaku pengendali data. Kebocoran yang melibatkan sekitar 204 juta data Daftar Pemilih Tetap (DPT) ini menyoroti kelemahan sistem keamanan siber KPU dan ketidaksinkronan regulasi.Terdapat undang-undang terhadap pelaku peretasan yaitu UU ITE dan UU PDP</p>
