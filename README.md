@@ -60,11 +60,12 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 2.2 Analisis Berdasarkan Etika
 <p>
- 
+ Dalam Etika, kebocoran data KPU/Pemilu 2024 telah menunjukkan pelanggaran serius terhadap prinsip dasar etika dalam pengelolaan sistem informasi, khususnya tanggung jawab dan kepercayaan publik. KPU sebagai lembaga negara harus memiliki kewajiban moral dan etis untuk menjaga data masyarakat. Ketika kebocoran ini telah menunjukkan kelalaian dalam sistem, maka prinsip tanggung jawab telah melanggar terhadap data tersebut. Masyarakat mempercayakan datanya kepada KPU untuk demokrasi. Ketika data mereka bocor, maka kepercayaan publik terhadap KPU jadi turun.
 </p>
 
 ### 2.3 Analisis Berdasarkan Moral
 <p>
+ Secara Moral, kebocoran data KPU/Pemilu 2024 mencerminkan tindakan yang tidak sesuai dengan nilai kejujuran dan tanggung jawab. Kegagalan dalam menjaga keamanan data dianggap sebagai bentuk kelalaian moral, karena dampak tersebut sangat merugikan masyarakat. Kebocoran data ini juga menimbulkan keresahan pada masyarakat dikarenakan takut atas penyalahgunaan data mereka, misalnya manipulasi identitas dan pencurian.
  
 </p>
 
