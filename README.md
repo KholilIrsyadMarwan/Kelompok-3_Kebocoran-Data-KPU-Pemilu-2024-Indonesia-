@@ -33,8 +33,6 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
  
 </div>
 
-
-
 <hr>
 
 <div align="center">
@@ -54,8 +52,6 @@ Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharet
 
 ### 1.3 Tujuan  
 
----
-
 <hr>
 
 <div align="center">
@@ -72,7 +68,6 @@ Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharet
 2.5.2 UU PDP
 ### 2.6 Dampak Kasus
 ### 2.7 Solusi dan Pencegahan
----
 
 <hr>
 
@@ -84,12 +79,12 @@ Praesent ut ligula non mi varius sagittis. Fusce ac felis sit amet ligula pharet
 ### 3.1 Kesimpulan  
 ### 3.2 Saran  
 
----
-
 <hr>
 
 <div align="center">
 <h2>DAFTAR PUSTAKA</h2>
 </div>
+
+---
 
 Link Canva: https://www.com
