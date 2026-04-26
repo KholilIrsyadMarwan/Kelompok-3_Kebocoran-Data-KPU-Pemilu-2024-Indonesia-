@@ -1,7 +1,7 @@
 # LAPORAN ETIKA PROFESI  
 ## KEBOCORAN DATA KPU/PEMILU 2024 INDONESIA
 
-"Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)"
+`Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)`
 
 <div align="center">
   <!-- Logo KPU -->
