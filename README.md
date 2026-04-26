@@ -5,7 +5,7 @@
 
 <div align="center">
  
-  <img width="390" height="378" alt="image" src="https://github.com/user-attachments/assets/217369b2-d51f-4a2a-84c1-ec59d8ab96cb" />
+  
 
   ## Disusun Oleh Kelompok 3:
   
@@ -19,6 +19,7 @@
   
   **Dosen Pengampu:**  
   Adi Wahyu Pribadi, S.Si., M.Kom
+  
   
   <br><br>
   
