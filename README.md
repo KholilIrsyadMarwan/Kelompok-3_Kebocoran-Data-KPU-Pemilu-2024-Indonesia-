@@ -1,7 +1,8 @@
-# LAPORAN ETIKA PROFESI  
-## KEBOCORAN DATA KPU/PEMILU 2024 INDONESIA
-
-disusun untuk memenuhi Tugas Etika Profesi - B
+<div align="center">
+  <h1>LAPORAN ETIKA PROFESI</h1>
+  <h2>KEBOCORAN DATA KPU/PEMILU 2024 INDONESIA</h2>
+  <p>disusun untuk memenuhi Tugas Etika Profesi - B</p>
+</div>
 
 **Dosen Pengampu:**  
 Adi Wahyu Pribadi, S.Si., M.Kom
