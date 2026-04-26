@@ -98,11 +98,11 @@ Setiap Orang dengan sengaja dan tanpa hak atau melawan hukum mengakses Komputer 
 ### 2.6 Dampak Kasus
 <p>
  Dampak utama kebocoran data pemilu 2024:</p>
-1.Ancaman Integritas dan Legitimasi Pemilu
+1. Ancaman Integritas dan Legitimasi Pemilu
 Kebocoran data menciptakan keraguan publik terhadap keamanan sistem informasi KPU, yang dapat melemahkan legitimasi hasil pemilu.
-2.Penyalahgunaan Data Pribadi
+2. Penyalahgunaan Data Pribadi
 NIK, KK, dan informasi pribadi lainnya yang bocor rentan disalahgunakan untuk penipuan, profiling pemilih, hingga manipulasi data Daftar Pemilih Tetap (DPT).
-3.Ketidakpercayaan Publik
+3. Ketidakpercayaan Publik
 Insiden ini meningkatkan ketidakpercayaan masyarakat terhadap KPU sebagai penyelenggara, terutama karena terjadi berulang kali.
 
 
