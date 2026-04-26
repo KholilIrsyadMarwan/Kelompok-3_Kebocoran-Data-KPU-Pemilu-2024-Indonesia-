@@ -55,7 +55,11 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 2.1 Kronologi Kasus
 <p>
- 
+ Informasi peretasan situs KPU ini diketahui setelah Jimbo mengunggah sebuah postingan di situs BreachForums, tempat yang biasa digunakan untuk menjual hasil peretasan. Dia membagikan 500 ribu data sampel yang berhasil didapatkannya dari situs KPU. 
+
+Dari data yang diretas Jimbo, ada beberapa data pribadi yang cukup penting. Mulai dari Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga (KK), dan Nomor KTP—berisi nomor paspor untuk pemilih yang berada di luar negeri.
+
+Selain itu, ada juga data pribadi lainnya, berupa nama lengkap, jenis kelamin, tanggal lahir, tempat lahir, status pernikahan, alamat lengkap, RT, RW, kodefikasi kelurahan, kecamatan, dan kabupaten serta kodefikasi TPS.
 </p>
 
 ### 2.2 Analisis Berdasarkan Etika
