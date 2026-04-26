@@ -4,8 +4,8 @@
 `Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)`
 
 <div align="center">
-  <!-- Logo KPU -->
-  ![Logo KPU](https://link_to_logo_image)
+ 
+  <img width="390" height="378" alt="image" src="https://github.com/user-attachments/assets/217369b2-d51f-4a2a-84c1-ec59d8ab96cb" />
 
   ## Disusun Oleh Kelompok 3:
   
