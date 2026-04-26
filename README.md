@@ -7,7 +7,7 @@ Untuk memenuhi tugas pada mata kuliah Etika Profesi (B)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
 
-  <img width="390" height="378" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />
+  <img width="280" height="270" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />
 
   ## Disusun Oleh Kelompok 3:
   
