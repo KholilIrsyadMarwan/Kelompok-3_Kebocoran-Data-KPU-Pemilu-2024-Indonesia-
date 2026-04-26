@@ -123,6 +123,9 @@ NIK, KK, dan informasi pribadi lainnya yang bocor rentan disalahgunakan untuk pe
 3. Ketidakpercayaan Publik:
 Insiden ini meningkatkan ketidakpercayaan masyarakat terhadap KPU sebagai penyelenggara, terutama karena terjadi berulang kali.
 
+## 2.7 Solusi dan Pencegahan
+
+Untuk memitigasi risiko di masa depan dan memperbaiki standar keamanan data nasional, berikut adalah beberapa solusi dan langkah pencegahan yang dapat diterapkan:
 
 ### 2.7.1 Solusi Teknis (Cybersecurity)
 *  Mengadopsi prinsip "jangan pernah percaya, selalu verifikasi" pada setiap akses ke database KPU, sehingga tidak ada pengguna yang memiliki akses otomatis tanpa otentikasi ketat.
