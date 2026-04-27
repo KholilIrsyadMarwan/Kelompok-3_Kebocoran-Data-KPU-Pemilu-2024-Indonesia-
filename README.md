@@ -54,6 +54,7 @@ Menurut Ketua Lembaga Keamanan Siber Communication and Information System Securi
 
 ### 1.2 Rumusan Masalah  
 1.	Bagaimana dampak kebocoran data KPU / Pemilu 2024 pada privasi dan keamanan masyarakat?
+2.	Mengapa studi kasus kebocoran data KPU / Pemilu 2024 ini menarik untuk di analisis?
 
 ### 1.3 Tujuan  
 
