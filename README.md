@@ -57,6 +57,7 @@ Menurut Ketua Lembaga Keamanan Siber Communication and Information System Securi
 2.	Mengapa studi kasus kebocoran data KPU / Pemilu 2024 ini menarik untuk di analisis?
 
 ### 1.3 Tujuan  
+1. Dampak data masyarakat yang diretas oleh orang yang tidak bertanggung jawab, bisa disalah gunakan seperti membobol rekening bank, didaftarkan ke peminjaman online tanpa izin, melakukan penipuan dengan menggunakan indentitas orang lain, menelfon secara terus menerus / spam telfon.
 
 <hr>
 
