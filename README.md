@@ -58,6 +58,7 @@ Menurut Ketua Lembaga Keamanan Siber Communication and Information System Securi
 
 ### 1.3 Tujuan  
 1. Dampak data masyarakat yang diretas oleh orang yang tidak bertanggung jawab, bisa disalah gunakan seperti membobol rekening bank, didaftarkan ke peminjaman online tanpa izin, melakukan penipuan dengan menggunakan indentitas orang lain, menelfon secara terus menerus / spam telfon.
+2. Karena kasus ini berhubungan dengan lembaga nergara,yang mana lembaga negara memegang data masyarakat dengan jumlah yang besar, dan terjadinya menjelang pemilu 2024, berkaitan dengan data pribadi masyarakat, serta tanggung jawab dari pihak lembaga yang mengelola data tersebut.
 
 <hr>
 
