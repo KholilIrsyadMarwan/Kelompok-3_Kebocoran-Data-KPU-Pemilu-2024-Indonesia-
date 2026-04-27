@@ -48,6 +48,8 @@ Untuk itu perlu membahas studi kasus Kebocoran Data KPU / Pemilu 2024, tepatnya 
  
 Kasus ini sangat sensitif, karena data yang diperjualbelikan berupa data pribadi seperti Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga. Nomor KTP, Paspor, nama, tempat pemungutan suara, status pernikahan, jenis kelamin, tanggal dan tempat lahir dan juga kodefikasi data Tempat Pemungutan Suara (TPS), yang seharusnya diketahui oleh pemilik, keluarga dan instansi yang berwenang.
 
+Menurut Ketua Lembaga Keamanan Siber Communication and Information System Security Research (CISSReC), Pratama Persadha dia mengatakan Kemungkinan peretas membobol situs kpu sebagai admin yang data akses masuk dari domain sidalih.kpu.go.id, dengan menggunakan metode phishing, social engineerring atau malware, peretas bisa melakukan akses dari salah satu  pengguna dari situs tersebut, kemudian mendownload data pemilih dan beberapa data lainnya.
+
 </p>
 
 ### 1.2 Rumusan Masalah  
