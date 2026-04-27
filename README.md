@@ -42,9 +42,11 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 1.1 Latar Belakang  
 <p>
-Disini saya akan membahas studi kasus Kebocoran Data KPU / Pemilu 2024, pada tepatnya hari senin 27 November 2023 menjelang pemilu 2024 kita dikagetkan dengan berita kebocoran data penduduk tetap (DPT), yang dimana 204 juta data telah di retas dengan akun anonym yang bernama Jimbo di situs situs BreachForums dan dijual sekitar $74000 jika kita rupiahkan ke dollar senilai 1.276.699.800,00 miliar rupiah.
+Di era digital ini informasi lebih mudah diakses, seiring perkembangan zaman, semakin banyak orang yang memakai teknologi smartphone, tablet, komputer dan laptop, selain itu juga semakin tinggi juga risiko keamanan data yang kita simpan. Karena masih banyak laporan tentang kebocoran data di Indonesia, yang disiarkan oleh berita tentang kebocoran data KPU / Pemilu 2024 sehingga menjadi perbincangan publik
  
-Kasus ini sangat sensitif menurut saya, karna data yang di perjualbelikan berupa data pribadi seperti Nomor Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga. Nomor KTP, Passport, nama, tempat pemungutan suara, status difabel, jenis kelamin, tanggal dan tempat, yang seharusnya diketahui oleh pemilik keluarga dan instansi yang berwenang.
+Untuk itu perlu membahas studi kasus Kebocoran Data KPU / Pemilu 2024, tepatnya pada hari senin 27 November 2023 menjelang pemilu 2024 kita dikagetkan dengan berita kebocoran data penduduk tetap (DPT), yang dimana 204 juta data telah diretas dengan akun anonim yang bernama Jimbo di situs BreachForums dan dijual sekitar $74000 jika dirupiahkan ke dollar sekitar 1,2 miliar rupiah
+ 
+Kasus ini sangat sensitif, karena data yang diperjualbelikan berupa data pribadi seperti Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga. Nomor KTP, Paspor, nama, tempat pemungutan suara, status pernikahan, jenis kelamin, tanggal dan tempat lahir dan juga kodefikasi data Tempat Pemungutan Suara (TPS), yang seharusnya diketahui oleh pemilik, keluarga dan instansi yang berwenang.
 
 </p>
 
