@@ -46,7 +46,7 @@ Di era digital ini informasi lebih mudah diakses, seiring perkembangan zaman, se
  
 Untuk itu perlu membahas studi kasus Kebocoran Data KPU / Pemilu 2024, tepatnya pada hari senin 27 November 2023 menjelang pemilu 2024 kita dikagetkan dengan berita kebocoran data penduduk tetap (DPT), yang dimana 204 juta data telah diretas dengan akun anonim yang bernama Jimbo di situs BreachForums dan dijual sekitar $74000 jika dirupiahkan ke dollar sekitar 1,2 miliar rupiah
  
-Kasus ini sangat sensitif menurut saya, karna data yang di perjualbelikan berupa data pribadi seperti Nomor Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga. Nomor KTP, Passport, nama, tempat pemungutan suara, status difabel, jenis kelamin, tanggal dan tempat, yang seharusnya diketahui oleh pemilik keluarga dan instansi yang berwenang.
+Kasus ini sangat sensitif, karena data yang diperjualbelikan berupa data pribadi seperti Nomor Induk Kependudukan (NIK), Nomor Kartu Keluarga. Nomor KTP, Paspor, nama, tempat pemungutan suara, status pernikahan, jenis kelamin, tanggal dan tempat lahir dan juga kodefikasi data Tempat Pemungutan Suara (TPS), yang seharusnya diketahui oleh pemilik, keluarga dan instansi yang berwenang.
 
 </p>
 
